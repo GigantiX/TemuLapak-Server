@@ -1,0 +1,32 @@
+{
+  "name": "temulapak-notification-server",
+  "version": "1.0.0",
+  "description": "TemuLapak notification server using FCM",
+  "main": "temulapak-server.js",
+  "scripts": {
+    "start": "node temulapak-server.js",
+    "dev": "nodemon temulapak-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fcm",
+    "firebase",
+    "notifications",
+    "temulapak",
+    "nodejs",
+    "express"
+  ],
+  "author": "TemuLapak Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
