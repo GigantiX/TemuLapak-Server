@@ -37,7 +37,7 @@ TemuLapak is a mobile application that connects buyers with street vendors in re
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/temulapak-notification-server.git
+git clone https://github.com/GigantiX/temulapak-notification-server.git
 cd temulapak-notification-server
 ```
 
